@@ -1,3 +1,4 @@
 # User-Registration-and-Login-App-for-Multiple-User
-Creating a user registration and login app for multiple users is a common requirement for many web applications.
-We are creating a Flask App where users can enter basic details such as name, email and password. Also store that data in the database.
+Creating a user registration and login app for multiple users is a common requirement in many web applications. 
+We're developing a Flask app where users can input basic information such as their name, email, and password. 
+The app will securely store this data in a database for user management and authentication.
